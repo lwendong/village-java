@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "JWT.timeout.day",
+      "type": "java.lang.String",
+      "description": "Description for JWT.timeout.day."
+  }
+] }
